@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 git push
+=======
+git checkout master 
+touch up_to_date
+git add .
+git status 
+git commit -m 'How to be up to date in git'
+git push 
+
+>>>>>>> e111565c6543ed24d1caec2d5221eb299b9bc593
